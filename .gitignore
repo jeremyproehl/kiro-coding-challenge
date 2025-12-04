@@ -35,3 +35,12 @@ Thumbs.db
 # Environment
 .env
 .env.local
+
+# Lambda Bundle
+backend/lambda_bundle/
+
+# CDK Outputs
+infrastructure/outputs.json
+
+# Test Results
+test_results.txt
